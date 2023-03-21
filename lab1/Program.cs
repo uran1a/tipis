@@ -16,7 +16,7 @@ namespace lab1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormLab2());
+            Application.Run(new FormLab3());
         }
     }
 }
